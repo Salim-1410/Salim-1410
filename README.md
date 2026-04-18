@@ -42,6 +42,10 @@
 
 ---
 
+Academic Timeline: > * 2025: Focused on Network Security and Linux Fundamentals.
+​Q1 2026: Advanced to Python Automation and Vulnerability Assessment.
+​Present: Migrating technical documentation to GitHub for professional review.
+
 ## 📜 Professional Certifications
 * **Professional Google Career Certificate:** Cybersecurity 
 * **Professional Google Career Certificate:** Technical Support Fundamentals

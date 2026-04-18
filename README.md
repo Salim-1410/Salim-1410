@@ -11,3 +11,8 @@
 ​Technical Design: Proficiency in Pattern Grading and resizing designs for production (Small to Medium/Large).
 ​Automation: Currently developing VBA Macros to streamline repetitive design tasks and improve workflow efficiency.
 ​
+## 🐍 Python Programming & Automation
+​I utilize Python to bridge the gap between design automation and cybersecurity scripting. My focus areas include:
+​Security Scripting: Developing basic scripts for automation, such as log parsers and simple network scanners.
+​Logic & Data Structures: Solid understanding of Python fundamentals including loops, conditional logic, and handling JSON/CSV data.
+​Design Integration: Exploring the use of Python for batch processing and integrating with design workflows to increase productivity

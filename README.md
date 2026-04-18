@@ -6,6 +6,7 @@ Cybersecurity Student | Graphic Design Specialist
 ​## 🎨 Graphic Design & Production (CorelDRAW)
 * **Vector Illustration:** Expert use of the Pen tool and PowerClip.
 * **Technical Design:** Proficiency in Pattern Grading and resizing designs.
+
 ​## 🐍 Python Programming & Automation
 * **Security Scripting:** Developing scripts for automation and log parsing.
 * **Logic:** Solid understanding of loops and conditional logic.

@@ -1,4 +1,4 @@
-​# Hi, I'm [Your Name] 👋
+​# Hi, I'm Salim Amadewu. 👋
 ​Cybersecurity Student | Graphic Design Specialist
 ​## 🛡️ Cybersecurity Experience (Kali Linux)
 ​Since my lab environment is currently being migrated, below is a summary of my technical proficiencies in Kali Linux:

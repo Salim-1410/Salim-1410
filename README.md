@@ -15,6 +15,14 @@
 * **Lab Environment:** Successfully configured virtualized environments using **Oracle VirtualBox** and **VMware** to host Kali Linux.
 
 ---
+## 🌐 Networking & Infrastructure
+*Core understanding of how data moves across local and global networks.*
+
+* **TCP/IP Model:** Deep understanding of the 4-layer TCP/IP model and the 7-layer OSI model.
+* **Protocol Proficiency:** Familiar with critical protocols including **DNS, DHCP, HTTP/S, SSH, and FTP**.
+* **IP Addressing:** Knowledge of IPv4/IPv6 subnetting and routing fundamentals.
+* **Network Troubleshooting:** Experience diagnosing connectivity issues and analyzing traffic patterns.
+
 
 ## 🐍 Python Programming & Automation
 *Bridging the gap between security scripting and workflow efficiency.*

@@ -52,3 +52,10 @@
 * **Location:** Clanwilliam, Western Cape, SA
 * **Focus:** Security Operations Center (SOC) | IT Automation | Technical Design
 * **References:** Professional references available upon request.
+
+---
+
+## 📁 Featured Projects & Technical Documentation
+* 🛡️ **[Cybersecurity Scanning Methodology](https://github.com/Salim-1410/Cyber-Security-Research)** - A deep dive into network reconnaissance using Nmap and Kali Linux.
+* 🐍 **[Python Port Scanner Script](https://github.com/Salim-1410/Python-Security-Tools)** - Custom Python automation for identifying open network ports.
+* 📐 **[CorelDRAW Production Workflow](https://github.com/Salim-1410/CorelDRAW-Technical-Production)** - Documentation of professional vector design and pattern grading techniques.
